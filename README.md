@@ -1,5 +1,5 @@
 # gedicht
-## "Er kam, sah und programmierte" - George Washington 
+## Egal wie gut man in etwas ist. Es wird immer einen 12 jährigen Asiaten geben, der besser darin ist
 # h1
 ## h2
 ### h3
